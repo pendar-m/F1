@@ -45,7 +45,11 @@ p {
     margin-bottom: 12px;
 }
 
-
+.logo {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
 
 
 header {
